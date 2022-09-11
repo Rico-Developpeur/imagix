@@ -6,8 +6,8 @@ import Background from "../../components/Background/Background";
 import mariage from "../../assets/images/mariage.jpg";
 import entreprise from "../../assets/images/entreprise.png";
 import anniversaire from "../../assets/images/anniversaire.jpg";
-import retraite from "../../assets/images/maison_retraite.jpg";
-import asso from "../../assets/images/asso.jpg";
+import retraite from "../../assets/images/maison_retraite1.jpg";
+import asso from "../../assets/images/asso1.jpg";
 
 const Prestations = () => {
   return (

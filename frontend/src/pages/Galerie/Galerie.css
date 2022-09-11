@@ -74,11 +74,11 @@
   transform: rotateY(80deg) translateZ(430px);
 }
 .carousel__face:nth-child(4) {
-  background-image: url("../../assets/images/maison_retraite.jpg");
+  background-image: url("../../assets/images/maison_retraite1.jpg");
   transform: rotateY(120deg) translateZ(430px);
 }
 .carousel__face:nth-child(5) {
-  background-image: url("../../assets/images/asso.jpg");
+  background-image: url("../../assets/images/asso1.jpg");
   transform: rotateY(160deg) translateZ(430px);
 }
 
