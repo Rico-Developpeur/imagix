@@ -75,10 +75,6 @@
 }
 
 @media screen and (min-width: 750px) {
-  .titre-home {
-    margin-top: 60px;
-  }
-
   .homeTypewriter {
     font-size: 27px;
   }
@@ -94,7 +90,7 @@
 
 @media screen and (min-width: 1140px) {
   .titre-home {
-    margin-top: 100px;
+    margin-top: 0px;
   }
 
   .homeTypewriter {

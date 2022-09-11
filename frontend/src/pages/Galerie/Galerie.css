@@ -127,7 +127,7 @@
 @media screen and (min-width: 1140px) {
   .galerie-title {
     font-size: 60px;
-    margin-top: 100px;
+    margin-top: 0px;
   }
 
   .container {
